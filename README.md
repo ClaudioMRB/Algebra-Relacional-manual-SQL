@@ -466,3 +466,7 @@ RESULT
 Finalizamos aqui este artigo sobre **Álgebra Relacional**. Tivemos uma boa noção de como é trabalhada a lógica de consultas através desta linguagem formal e podemos concluir que é uma ótima metodologia de desenvolvimento de raciocínio por parte de quem está aplicando a técnica.
 
 Este desenvolvimento de raciocínio lógico em consultas a bancos de dados será muito útil na construção de instruções que irão interagir com o [banco de dados](https://www.devmedia.com.br/conceitos-fundamentais-de-banco-de-dados/1649), porém construindo essas instruções de maneira performática, tirando o máximo de desempenho possível.
+
+
+
+[Álgebra Relacional Tutorial (devmedia.com.br)](https://www.devmedia.com.br/algebra-relacional-tutorial/2663)
